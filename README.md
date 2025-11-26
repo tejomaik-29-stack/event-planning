@@ -1,4 +1,4 @@
-Abstract:
+**Abstract:**
 
 
 
@@ -21,7 +21,7 @@ Overall, the program demonstrates fundamental concepts in C such as structures, 
 
 
 
-Features of the program:
+**Features of the program:**
 
 
 Allows users to add events with a name, date, and location.
@@ -38,7 +38,7 @@ Handles basic input errors and prevents adding too many events.
 Runs continuously until the user chooses to exit.
 
 
-Techincal Requirements
+**Techincal Requirements**
 
 
 A C compiler such as GCC or Clang
@@ -68,7 +68,7 @@ The system must provide a menu for user interaction.
 The system must allow users to exit the program.
 
 
-How to Run the Program:
+**How to Run the Program:**
 
 
 Save the code
