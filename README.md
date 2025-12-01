@@ -6,7 +6,9 @@ It lets users add and view events through an easy, menu-based interface.
 
 Every event includes a name, a date, and a location, all stored using a structure.
 
-The system offers three main options: add a new event, list all events, or exit the program.
+The system offers three main options: add a new event,
+list all events,
+or exit the program.
 
 Events are saved in an array with a fixed limit, and the program uses basic input functions to read user data.
 
