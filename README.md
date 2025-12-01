@@ -1,4 +1,5 @@
 ABSTRACT:
+
 This program is a simple Event Planning System written in C.
 
 It lets users add and view events through an easy, menu-based interface.
@@ -13,8 +14,9 @@ Overall, the program demonstrates fundamental concepts in C such as structures, 
 
 Features of the program:
 
-Allows users to add events with a name, date, and location.
 
+
+Allows users to add events with a name, date, and location.
 
 Stores up to 50 events using a structure-based array.
 
